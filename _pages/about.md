@@ -18,4 +18,4 @@ I am a PhD candidate in the <a href='https://pharma.unibas.ch/en/research/resear
 <br>
 
 
-In my free time, I like to challenge myself outside of my comfort zone. Currently, I educate myself about business management, consulting, coding, and investing, and by reading books and/or taking online courses.
+In my free time, I like to challenge myself outside of my comfort zone. Currently, I educate myself on business management, consulting, coding, and investing by reading books and/or taking online courses.
