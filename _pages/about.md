@@ -6,7 +6,7 @@ subtitle: Biopharmacy Research Group, Klingelbergstrasse 50, 4056 Basel, Switzer
 
 profile:
   align: right
-  image: prof_pic.JPEG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
