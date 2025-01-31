@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Biopharmacy Research Group, Klingelbergstrasse 50, 4056 Basel, Switzerland.
+subtitle: Novartis, Biomedical Research, Translational Medicine, PK Sciences.
 
 profile:
   align: right
@@ -14,19 +14,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a dedicated Postdoctoral Researcher affiliated with the <a href='https://pharma.unibas.ch/en/research/research-groups/biopharmacy/'>Biopharmacy Research Group</a> at the University of Basel, Switzerland. Along my academic path, I have graduated with a Bachelor of Science in Pharmaceutical Sciences, a Masters of Science in Medicinal and Industrial Pharmaceutical Sciences from ETH Zurich, and a PhD in Pharmaceutical Sciences from the University of Basel.
-<br>
+I’m a Principal Scientist in the PK Sciences <em>in vivo</em> ADME* group focusing on Study monitoring as well as Strategy and Innovation. My academic journey led me to earn a Bachelor’s and Master’s in Pharmaceutical Sciences from ETH Zurich, followed by a PhD in Pharmaceutical Sciences from the University of Basel.<br>
 
-My professional trajectory has been enriched by opportunities in the industrial pharmaceutical and biotech sectors. Following my academic pursuits, I delved into Philochem by contributing to the implementation of proteomic analysis using data-independent acquisition. Subsequently, I joined Global Drug Development division of Novartis in Basel. Here, I explored the stability of amorphous solid dispersions. Shortly after, I worked there as a formulation scientist to assess preclinical formulations of lead compounds for first <em>in vivo</em> studies.
-<br>
+My professional path has been shaped by diverse experiences in the pharmaceutical and biotech industries. After completing my studies, I began my career at Philochem, where I helped implement proteomic analysis using data-independent acquisition. I then moved to Novartis as a Preclinical Formulation Scientist in the Global Drug Development division. Fueled by a passion for scientific exploration, I returned to academia in 2019 as a PhD candidate in the Biopharmacy Research Group with Prof. Meyer zu Schwabedissen. My research focused on the role of drug transporters in drug disposition, particularly Organic Anion Transporting Polypeptides (OATPs). During this time, I gained expertise in ADME through a variety of <em>in vitro</em> and <em>in vivo</em> assays, bioanalytics, and scientific project management.<br>
 
-Driven by passion for scientific exploration, I moved back to academia in 2019, joining the Biopharmacy Research Group as a PhD candidate with Prof. Meyer zu Schwabedissen. My doctoral research focused on elucidating the intricate influence of drug transporters on drug disposition, with a particular focus on Organic Anion Transporting Polypeptide 2B1 (OATP2B1). Leveraging innovative rat models humanized and knocked-out for OATP2B1, I unraveled insights into its role in pharmacologicy and physiology. Throughout this journey, I achieved to develop skills and knowledge in ADME (Absorption, Distribution, Metabolism, Excretion) and DMPK (Drug Metabolism and Pharmacokinetics) as well as mastering a spectrum of <em>in vitro</em> assays and skills in <em>in vivo</em> studies.
-<br>
+Outside of my research, I am deeply committed to personal development, social engagement, and teamwork. To further expand my professional capabilities, I’ve pursued certifications in Good Clinical Practice (GCP), project management, and various soft skills courses.<br>
 
-Currently, in my Postdoctoral role, I am delving deeper into the role of coproporphyrins as biomarkers of hepatic OATPs. My involvement across diverse projects is contributed to my leading role in the development and validation of bioanalytical methods tailored for the quantification of small molecules and biomarkers.
-<br>
+In my free time, I’m always seeking new adventures, challenging my comfort zone, and embracing opportunities for lifelong learning.<br>
 
-Beyond academia and scientific endeavors, I am committed to personal growth and social competence. Embracing challenges outside my professional domain, I have pursued certifications in Good Clinical Practice (GCP), Project and Process Management, and a range of soft skills courses, enriching my professional skill set.
-<br>
-
-In my leisure time, I enjoy possibilities to explore adventures, continually pushing the boundaries of my comfort zone, and embracing lifelong learning.
+* Absorption, Distribution, Metabolism, and Excretion
